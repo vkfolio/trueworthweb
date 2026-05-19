@@ -10,6 +10,12 @@ export default defineConfig({
   server: {
     port: 3000,
   },
+  build: {
+    // GitHub Pages serves from /docs on this repo.
+    // CNAME is preserved via public/CNAME, copied here on every build.
+    outDir: 'docs',
+    emptyOutDir: true,
+  },
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

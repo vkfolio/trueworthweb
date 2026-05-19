@@ -8,25 +8,25 @@ const features = [
   {
     title: 'Net Worth Dashboard',
     description: 'See your complete picture. Real-time calculation across all accounts, investments, and liabilities.',
-    image: '/images/home.PNG',
+    image: '/images/home.webp',
     alt: 'TrueWorth Net Worth Dashboard',
   },
   {
     title: 'Loan Intelligence',
     description: 'Visualize amortization, simulate prepayments, and log interest rate changes with precision.',
-    image: '/images/loan.PNG',
+    image: '/images/loan.webp',
     alt: 'TrueWorth Loan Intelligence',
   },
   {
     title: 'Family Ledger',
     description: 'One subscription covers your household. Seamlessly share ledgers via CloudKit.',
-    image: '/images/ledger.PNG',
+    image: '/images/ledger.webp',
     alt: 'TrueWorth Family Ledger',
   },
   {
     title: 'AI Assistant',
     description: 'Ask questions in plain English. All processing happens on-device. Nothing leaves your phone.',
-    image: '/images/ai.PNG',
+    image: '/images/ai.webp',
     alt: 'TrueWorth AI Assistant',
   },
 ]

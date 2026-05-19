@@ -66,13 +66,13 @@ export default function IpadSection() {
         {/* iPad mockups */}
         <div className="grid lg:grid-cols-2 gap-10 lg:gap-16">
           <div ref={ipad1Ref} className="opacity-0">
-            <IpadFrame src="/images/ipad_home.PNG" alt="TrueWorth on iPad — Home" />
+            <IpadFrame src="/images/ipad_home.webp" alt="TrueWorth on iPad — Home" />
             <p className="text-center text-[14px] text-[#6E6E73] mt-6">
               Dashboard at a glance — net worth, AI summary, and your monthly flows.
             </p>
           </div>
           <div ref={ipad2Ref} className="opacity-0">
-            <IpadFrame src="/images/ipad_holdings.PNG" alt="TrueWorth on iPad — Loan Detail" />
+            <IpadFrame src="/images/ipad_holdings.webp" alt="TrueWorth on iPad — Loan Detail" />
             <p className="text-center text-[14px] text-[#6E6E73] mt-6">
               Loan intelligence with rate history and a built-in prepayment simulator.
             </p>

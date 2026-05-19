@@ -80,7 +80,7 @@ export default function CinematicSection() {
       >
         {/* Background Image */}
         <img
-          src="/images/corridor.jpg"
+          src="/images/corridor.webp"
           alt="Secure Data Vault"
           className="absolute inset-0 w-full h-full object-cover"
         />

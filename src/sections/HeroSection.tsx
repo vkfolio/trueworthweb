@@ -107,7 +107,7 @@ export default function HeroSection() {
                 <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[100px] h-[26px] bg-[#1a1a24] rounded-b-2xl z-20" />
                 {/* Screen */}
                 <img
-                  src="/images/home_lightmode.PNG"
+                  src="/images/home_lightmode.webp"
                   alt="TrueWorth App Dashboard"
                   className="w-full h-auto object-cover"
                 />
